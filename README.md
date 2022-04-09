@@ -1,4 +1,4 @@
-Johnny, 19 yo \n
-Living in Porto, Portugal \n
-Studying Artificial Intelligence and Data Science, in Universidade do Porto \n
-Languages: Python (favourite), C \n
+Johnny, 19 yo --- 
+Living in Porto, Portugal --- 
+Studying Artificial Intelligence and Data Science, in Universidade do Porto --- 
+Languages: Python (favourite), C
